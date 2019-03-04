@@ -1,4 +1,5 @@
 Rosu Gabriel - David, 311CD
+```
 
 	Pixelii fiecarei poze sunt salvati intr-un vector bidimensional, cu
 elemente de tip "pixel". Un element de tip pixel contine trei valori de tip
@@ -115,3 +116,4 @@ corect.
 
 ->	COD 8
 	-> Daca exista o poza, aceasta se va afisa, apelandu-se functia "afisare"
+```
