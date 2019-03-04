@@ -1,6 +1,4 @@
-Rosu Gabriel - David, 311CD
 ```
-
 	Pixelii fiecarei poze sunt salvati intr-un vector bidimensional, cu
 elemente de tip "pixel". Un element de tip pixel contine trei valori de tip
 int: r, g, b.
